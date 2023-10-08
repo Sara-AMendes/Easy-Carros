@@ -1,0 +1,28 @@
+.bg-gray {
+    background-color: #FBFBFB;
+}
+
+.align-header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+   
+.button-primary {
+    background-color: #09DAC2;
+    border: none;
+}
+   
+.button-secondary {
+    border-color: #30425A;
+    color: #30425A;
+    background-color: transparent;
+}
+
+.title {
+    color: #30425A;
+}
+
+.you-title {
+    color: #09DAC2;
+}

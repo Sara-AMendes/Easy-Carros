@@ -1,0 +1,26 @@
+body {
+  color: #30425A
+}
+
+a {
+  color: #30425A
+}
+
+.bg-gray {
+  background-color: #FBFBFB;
+}
+
+.align-header {
+ display: flex;
+ justify-content: space-between; 
+ align-items: center;
+}
+
+.button-primary {
+  background-color: #09DAC2;
+}
+
+.button-secondary {
+  color: #30425A;
+  background-color: transparent;
+}
